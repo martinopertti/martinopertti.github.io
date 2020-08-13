@@ -1,9 +1,11 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: ""
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Soy licenciado en sociología y trabajo como asistente en proyectos de investigación sobre opinión pública y comportamiento político en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay, donde también soy docente de grado. Mi trabajo aparece en publicaciones como la Revista Latinoamericana de Opinión Pública y soy co-autor del libro Twittarquía, la política de las redes en Uruguay.
+
+  Mis principales intereses de investigación se enmarcan en el estudio del comportamiento político de masas y los métodos de investigación. Particularmente estudio los orígenes y consecuencias de las identificaciones partidarias, los determinantes (particularmente económicos) del voto, la polarización política y el uso político de redes sociales. A su vez, me interesa el análisis de redes sociales, la metodología de encuestas y la visualización de datos.
 
 ## Current Interests and Projects:
 
