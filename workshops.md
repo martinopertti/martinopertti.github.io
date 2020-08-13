@@ -1,9 +1,22 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Data viz
+excerpt: ""
 ---
 
-# Workshops I've Put Together
+# Algunas visualizaciones recientes 
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+![](images/ima1.png)
+
+![](images/ima2.png)
+
+![](images/ima4.png)
+
+![](images/ima5.png)
+
+![](images/ima6.png)
+
+![](images/ima7.png)
+
+
+
