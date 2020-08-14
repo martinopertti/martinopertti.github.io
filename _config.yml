@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Martín Opertti
-  avatar: <img src='/images/ima7.png .png' width='200' height='300'>
+  avatar: <img src='/images/ima7.png' width='200' height='300'>
   bio: "¡Bienvenido/a!"
   email: operttim@gmail.com
   # Do not include the @ symbol in your Twitter username
