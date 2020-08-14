@@ -1,7 +1,9 @@
 ---
 layout: post-index
-title: Cursos
+title: docencia
 ---
+
+### Cursos
 
 ## Comportamiento político
 
