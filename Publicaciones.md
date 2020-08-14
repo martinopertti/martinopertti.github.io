@@ -34,9 +34,14 @@ excerpt: "Publicaciones"
 
 ### Otras publicaciones
 
-+ Detección de comunidades políticas en Twitter y posibles aplicaciones.
++ [Detección de comunidades políticas en Twitter y posibles aplicaciones](https://github.com/martinopertti/ComunidadesTwitter)
 
 **Abstract:** Los estudios académicos sobre el uso político de redes sociales han proliferado en tiempos recientes. Pese a las obvias bondades de trabajar con datos de redes sociales (prinicpalmente, estudiar comportamiento real, en tiempo real), existe una importante limitación en el acceso a información relevante a nivel individual. Por ejemplo, en el caso de Twitter, no es posible obtener información relevante a nivel individual sobre los usuarios que participan en una discusión política dada. Sin embargo, existen ciertas estrategias para inferir actitudes políticas de los usuarios de Twitter. Una de ellas es la detección de comunidades políticas mediante la aplicación de técnicas de teoría de redes, en particular, la detección de comunidades. En teoría de redes se utiliza la detección de comunidades para identificar subgrafos cuyos nodos están altamente conectados entre sí pero con poco conectados con otros grupos de nodos. La idea subyaciente es identificar subgrupos cohesivos (Borgatti, 2013).
 
+ <img src='/images/ima8.jpg' width='700' height='700'>
+ <font size="2"> <i> Detección de comunidades política en redes de retweets </i></font>
+
 + [Mobility Uruguay:](https://github.com/martinopertti/mobility-uruguay) Script de R para procesar y graficar datos de Google de movilidad en Uruguay
+
+ <img src='/images/ima10.png' width='700' height='500'>
 
