@@ -9,6 +9,7 @@ owner:
   name: Martín Opertti
   avatar: diariarec.jpg
   bio: "¡Bienvenido/a!"
+  location         : "Location"
   email: operttim@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: martinopertti
