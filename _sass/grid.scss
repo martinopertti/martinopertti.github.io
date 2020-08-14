@@ -42,7 +42,7 @@ $margin: 0;
    ========================================================================== */
 
 @mixin suffix($grid:$def_grid,$cols:''){
-  margin-right:(100%/$grid * $cols);
+  margin-right:(100%);
 }
 
 /*
@@ -70,7 +70,7 @@ $margin: 0;
 
 @mixin push($grid:$def_grid,$move:'') {
   position:relative;
-  left:(100%);
+  left:(100%/$grid * $move);
 }
 
 /*
