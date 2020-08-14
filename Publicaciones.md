@@ -10,7 +10,7 @@ excerpt: "Publicaciones"
 
   **Abstract:** The power of the electorate to reward or to punish governments for their performance is one of the pillars of conventional democratic theory, with economic perceptions as one of the most important issues for the public opinion. However, there is an ongoing debate over whether causality also flows the other way. This article aims to test whether partisanship shapes economic perceptions while extending the argument to the context of a developing economy. Furthermore, it analyses the impact of not only the direction of partisanship but also it´s strength, an overlooked feature in the partisan bias literature. The analysis, which aggregates an unusually rich data set of Uruguayans´ economic evaluations for the 2001-2019 period, presents strong evidence for the argument that both the direction and strength of partisanship produce great bias in economic judgments even in a developing economy context where citizens are more vulnerable to economic shocks. These findings suggest a rather unsettling scenario for electoral accountability in a significant part of the Uruguayan electorate.
  
- ![](images/ima6.png)
+ <img src='/images/ima6.png' width='800' height='600'>
  <font size="2"> <i> Percepciones económicas sociotrópicas en Uruguay según dirección y fortaleza de las identificaciones partidarias. </i> </font>
 
 ### Capítulos arbitrados en libros
@@ -26,7 +26,7 @@ excerpt: "Publicaciones"
 
 + [Twittarquía:](https://twittarquia.weebly.com/) la polí́tica de las redes en Uruguay. Editiones Túnel; Universidad Católica del Uruguay. Con Juan A. Bogliaccini, Cecilia Giambruno, Ignacio Borba y Rafael Piñeiro.
 
-**Abstract:** 
+**Abstract:** El libro analiza la discusión política en Twitter en el contexto de la campaña electoral en Uruguay en 2019. Para ello descargamos todos los tweets que mencionan a los precandidatos a las elecciones internas de marzo a noviembre y la discusión relacionada a hashtags específicos, y analizamos tendencias, sentimientos, texto, redes y a sus principales actores para describir el comportamiento político de los uruguayos en Twitter. Entre otras cosas, encontramos que la discusión política uruguaya en Twitter tiene una estructura de dos bloques -sea analizando retweets a precandidatos, candidatos o hashtags- y que los tuiteron de distintos partidos difieren en sus niveles de cohesión y de apoyo a los candidatos ganadores de las elecciones internas de su partido.  
 
  <img src='/images/inicio.png' width='600' height='600'>
  <font size="2"> <i> Red de retweets a principales candidatos presidenciales uruguayos durante la campaña electoral 2019. </i></font>
@@ -43,5 +43,5 @@ excerpt: "Publicaciones"
 
 + [Mobility Uruguay:](https://github.com/martinopertti/mobility-uruguay) Script de R para procesar y graficar datos de Google de movilidad en Uruguay
 
- <img src='/images/ima10.png' width='700' height='500'>
+ <img src='/images/ima10.png' width='800' height='600'>
 
