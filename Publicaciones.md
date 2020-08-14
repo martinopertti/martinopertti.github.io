@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Investigación
-excerpt: "Investigación"
+title: Publicaciones
+excerpt: "Publicaciones"
 ---
 
-## Artículos arbitrados
+### Artículos arbitrados
 
 + Opertti, M. (2020). Stoic partisans. The political conditioning of economic perceptions in Uruguay. Revista Latinoamericana de Opinión Pública, 9(1), 67-88.
 
@@ -13,7 +13,7 @@ excerpt: "Investigación"
  ![](images/ima6.png)
 *Percepciones económicas sociotrópicas en Uruguay según dirección y fortaleza de las identificaciones partidarias*
 
-## Capítulos arbitrados en libros
+### Capítulos arbitrados en libros
 
 + Big Business and Bureaucratic-Authoritarianism in Uruguay: a network based story of policy permeation for self-preservation. Con Juan A. Bogliaccini y Juan Geymonat
 
