@@ -9,4 +9,3 @@ Soy licenciado en sociología y trabajo como asistente en proyectos de investiga
 <div style="text-align: justify">
 	<br> Mis principales intereses de investigación se enmarcan en el estudio del comportamiento político de masas y los métodos de investigación. Particularmente estudio los orígenes y consecuencias de las identificaciones partidarias, los determinantes (particularmente económicos) del voto, la polarización política y el uso político de redes sociales. A su vez, me interesa el análisis de redes sociales, la metodología de encuestas y la visualización de datos. </div>
 
-<img src='/images/inicio.png' width='700' height='600'>
