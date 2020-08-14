@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Investigación
 ---
+
+<div style="text-align: justify">
 
 ## Investigación en curso
 
@@ -16,5 +17,5 @@ title: Investigación
 
 + Twitter y polarización política en Uruguay con Juan A. Bogliaccini, Ignacio Borba, Cecilia Giambruno and Rafael Piñeiro en ”De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019”.
 
-**Abstract:** El capítulo desarrolla un análisis de redes de retweets, basada en las interacciones de los tuiteros uruguayos con los actores políticos, respecto a los principales temas de campaña. A partir de este análisis se describen los patrones de polarización política en Uruguay y se discute cuánto estos patrones convergen o se distancian respecto a los estudios sobre comportamiento político existentes. El comportamiento en Twitter de los uruguayos da pistas sobre posibles desenlaces de eventos políticos, como la incorporación o exclusión de candidatos en el sistema político uruguayo, o los cambios en las lógicas de competencia y polarización política entre partidos y bloques.  
+**Abstract:** El capítulo desarrolla un análisis de redes de retweets, basada en las interacciones de los tuiteros uruguayos con los actores políticos, respecto a los principales temas de campaña. A partir de este análisis se describen los patrones de polarización política en Uruguay y se discute cuánto estos patrones convergen o se distancian respecto a los estudios sobre comportamiento político existentes. El comportamiento en Twitter de los uruguayos da pistas sobre posibles desenlaces de eventos políticos, como la incorporación o exclusión de candidatos en el sistema político uruguayo, o los cambios en las lógicas de competencia y polarización política entre partidos y bloques.   </div>
 
