@@ -12,7 +12,7 @@ excerpt: "Publicaciones"
  
  ![](images/ima6.png)
 
-*Percepciones económicas sociotrópicas en Uruguay según dirección y fortaleza de las identificaciones partidarias*
+ <font size="1"> This is my text number 2 *Percepciones económicas sociotrópicas en Uruguay según dirección y fortaleza de las identificaciones partidarias* </font>
 
 ### Capítulos arbitrados en libros
 
