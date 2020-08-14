@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Investigación en curso
 ---
-
-## Investigación en curso
 
 + The 'left-turn' and the support for pro-poor income growth in Latin America con Rosario Queirolo y Santiago López Cariboni
 
