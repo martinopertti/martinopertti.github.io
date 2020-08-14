@@ -4,7 +4,7 @@ title: Data viz
 excerpt: ""
 ---
 
-# Algunas visualizaciones recientes 
+## Algunas visualizaciones recientes 
 
 ![](images/ima1.png)
 
