@@ -20,6 +20,10 @@ excerpt: ""
 
 ![](images/ima12.png)
 
+![](images/ani1.gif)
+
+![](images/ani4.gif)
+
 ![](images/ima13.png)
 
 ![](images/ima4.png)
