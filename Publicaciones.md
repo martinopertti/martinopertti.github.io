@@ -22,7 +22,7 @@ excerpt: "Publicaciones"
  <img src='/images/ima7.png' width='600' height='600'>
  <font size="2"> <i> Posición y betweenness centrality  de los grupos empresariales con vínculos con gobierno militar en Uruguay. </i> </font>
 
-### Capítulos arbitrados en libros
+### Libros
 
 + [Twittarquía:](https://twittarquia.weebly.com/) la polí́tica de las redes en Uruguay. Editiones Túnel; Universidad Católica del Uruguay. Con Juan A. Bogliaccini, Cecilia Giambruno, Ignacio Borba y Rafael Piñeiro.
 
