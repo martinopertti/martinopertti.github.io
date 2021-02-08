@@ -20,6 +20,8 @@ excerpt: ""
 
 ![](images/ima12.png)
 
+![](images/ima14.png)
+
 ![](images/ani1.gif)
 
 ![](images/ani8.gif)
