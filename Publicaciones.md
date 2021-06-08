@@ -41,7 +41,3 @@ excerpt: "Publicaciones"
  <img src='/images/ima8.jpg' width='700' height='500'>
  <font size="2"> <i> Detección de comunidades política en redes de retweets </i></font>
 
-+ [Mobility Uruguay:](https://github.com/martinopertti/mobility-uruguay) Script de R para procesar y graficar datos de Google de movilidad en Uruguay
-
- <img src='/images/ima10.png' width='800' height='600'>
-
