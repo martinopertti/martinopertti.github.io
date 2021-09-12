@@ -6,13 +6,14 @@ excerpt: ""
 
 ## Algunas visualizaciones recientes 
 
-![](images/edad_dist.png)
+
+![](images/plot_1.png)
 
 ![](images/casos.png)
 
 ![](images/ev.png)
 
-![](images/replies_retweets_net.png)
+![](images/edad_dist.png)
 
 ![](images/ima2.png)
 
@@ -46,6 +47,6 @@ excerpt: ""
 
 ![](images/ima8.jpg)
 
-![](images/plot_1.png)
+![](images/replies_retweets_net.png)
 
 ![](images/ima9.png)
