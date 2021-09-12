@@ -6,6 +6,16 @@ excerpt: ""
 
 ## Algunas visualizaciones recientes 
 
+![](images/edad_dist.png)
+
+![](images/tiles_pol.png)
+
+![](images/plot_1.png)
+
+![](images/ev.png)
+
+![](images/replies_retweets_net.png)
+
 ![](images/ima2.png)
 
 ![](images/ima5.png)
