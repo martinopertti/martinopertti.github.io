@@ -8,11 +8,7 @@ excerpt: ""
 
 ![](images/edad_dist.png)
 
-![](images/tiles_pol.png)
-
 ![](images/casos.png)
-
-![](images/plot_1.png)
 
 ![](images/ev.png)
 
@@ -27,6 +23,8 @@ excerpt: ""
 ![](images/ima1.png)
 
 ![](images/ima11.png)
+
+![](images/tiles_eco.png)
 
 ![](images/ima10.png)
 
@@ -47,5 +45,7 @@ excerpt: ""
 ![](images/inicio.png)
 
 ![](images/ima8.jpg)
+
+![](images/plot_1.png)
 
 ![](images/ima9.png)
