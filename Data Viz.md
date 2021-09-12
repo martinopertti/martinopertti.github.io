@@ -10,6 +10,8 @@ excerpt: ""
 
 ![](images/tiles_pol.png)
 
+![](images/casos.png)
+
 ![](images/plot_1.png)
 
 ![](images/ev.png)
