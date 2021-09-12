@@ -8,8 +8,6 @@ excerpt: ""
 
 ![](images/edad_dist.png)
 
-![](images/tiles_pol.png)
-
 ![](images/casos.png)
 
 ![](images/plot_1.png)
