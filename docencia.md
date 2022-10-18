@@ -3,6 +3,11 @@ layout: page
 title: Cursos
 ---
 
+## Programación para el análisis de datos en ciencias sociales
+
+Curso de grado para las licenciaturas en Ciencias Sociales de la Universidad Católica del Uruguay que busca familiarizar a los estudiantes con la programación para el análisis de datos, con un enfoque en las habilidades relevantes para el análisis de datos en ciencias sociales. El curso utiliza principalmente el entorno y lenguaje de programación de R. El curso abarca cómo estructurar, transformar, explorar, analizar y visualizar datos en R. También son introducidos conceptos básicos de Stata y
+Python.
+
 ## Introducción a la Programación en R
 
 Curso introductorio de R en la Escuela de Invierno en Métodos y Acceso a Datos de la Universidad Católica del Uruguay sobre fundamentos, manipulación y visualización de datos en R. [Programa](IntroaR - Martín Opertti.pdf)
