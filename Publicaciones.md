@@ -6,7 +6,7 @@ excerpt: "Publicaciones"
 
 ### Artículos arbitrados
 
-+ [Stoic partisans](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772) The political conditioning of economic perceptions in Uruguay. Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020).
++ [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020).
 
   **Abstract:** The power of the electorate to reward or to punish governments for their performance is one of the pillars of conventional democratic theory, with economic perceptions as one of the most important issues for the public opinion. However, there is an ongoing debate over whether causality also flows the other way. This article aims to test whether partisanship shapes economic perceptions while extending the argument to the context of a developing economy. Furthermore, it analyses the impact of not only the direction of partisanship but also it´s strength, an overlooked feature in the partisan bias literature. The analysis, which aggregates an unusually rich data set of Uruguayans´ economic evaluations for the 2001-2019 period, presents strong evidence for the argument that both the direction and strength of partisanship produce great bias in economic judgments even in a developing economy context where citizens are more vulnerable to economic shocks. These findings suggest a rather unsettling scenario for electoral accountability in a significant part of the Uruguayan electorate.
  
@@ -21,6 +21,21 @@ excerpt: "Publicaciones"
 
 
 ### Capítulos arbitrados en libros
+
++ La opinión pública uruguaya: explicando el voto. Con Rosario Queirolo en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
+
+Este capítulo se divide en dos partes. La primera describe el electorado de los partidos políticos que recibieron más votos en la elección de octubre de 2019 (Frente Amplio, Partido Nacional, Partido Colorado y Cabildo Abierto) y analiza los principales cambios que experimentaron estos electorados en comparación con las elecciones de 2004, 2009 y 2014. El surgimiento de Cabildo Abierto en 2019 merece especial atención, por lo tanto, el capítulo describe las principales características de su electorado, en particular el origen político del mismo. La segunda parte del capítulo analiza la importancia que tuvieron distintos factores que suelen explicar el voto, y se concentra en la teoría del voto económico como explicación del voto al gobierno o la oposición. Las percepciones económicas sociotrópicas de los uruguayos tuvieron un cambio negativo importante en 2015; el capítulo describe ese cambio y cuál puede haber sido su impacto. El análisis se basa en datos de opinión pública recogidos por encuestadoras nacionales. 
+
+ <img src='/images/ima1.png' width='600' height='600'>
+ <font size="2"> <i> Serie de autoidentificación ideológica de los tres principales partidos 2009-2019. </i> </font>
+
++ Twitter y el proceso electoral 2019 en Uruguay. Con Ignacio Borba, Juan A. Bogliaccini, Cecilia Giambruno y Rafael Piñeiro en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
+
+En este capítulo proponemos un recorrido empírico sobre los comportamientos de los usuarios partidarios en Twitter. Definimos como usuarios partidarios a las cuentas que retuitean más a candidatos de determinado partido que de otros. Más que activistas en línea son simpatizantes o personas que tienen identificación partidaria y adhesión al partido. Para identificarlos utilizamos un índice de identificación partidaria en Twitter previamente propuesto por Bogliaccini et al. (2019) que permite observar los patrones de comportamiento en la red de los partidarios vis-à-vis los no partidarios y de los partidarios de diferentes candidatos y partidos.
+A continuación, analizamos la estructura de la conversación política en Twitter en Uruguay durante el proceso electoral de 2019 y su convergencia y divergencia con los modelos teóricos y empíricos con que la ciencia política ha explicado el funcionamiento del sistema de partidos en Uruguay.
+
+ <img src='/images/ima9.png' width='600' height='600'>
+ <font size="2"> <i> Estructura de retuits en distintas discusiones políticas. </i> </font>
 
 + Big Business and Bureaucratic-Authoritarianism in Uruguay: a network based story of policy permeation for self-preservation. Con Juan A. Bogliaccini y Juan Geymonat en Berghoff, Basualdo and Bucheli (ed.) [Big Business and Authoritarian Regimes.](https://www.springer.com/de/book/9783030439248) Palgrave McMillan
 
