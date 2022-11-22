@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Publicaciones
-excerpt: "Publicaciones"
+title: Publications
+excerpt: "Publications"
 ---
 
-### Artículos arbitrados
+### Peer-Reviewed Articles
 
 + [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020).
 
