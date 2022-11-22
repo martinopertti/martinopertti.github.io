@@ -14,7 +14,7 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: martinopertti
   github: martinopertti
-  google.scholar: martinopertti
+  googlescholar: https://scholar.google.es/citations?user=WmXuNEsAAAAJ&hl=es&oi=ao
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
