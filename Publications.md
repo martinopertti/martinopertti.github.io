@@ -8,7 +8,9 @@ excerpt: "Publications"
 
 - [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://martinopertti.github.io/blog/stoic-partisans/) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020).
 
-+ [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772)
+	+ [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772)
+
+	+ [Award](https://aucip.org.uy/premios-carlos-real-de-azua/)
 
 ### Notas metodológicas
 
