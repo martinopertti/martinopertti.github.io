@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Example content
-tags: [intro, beginner, jekyll, tutorial]
+title: Stoic Partisans
 category: blog
 ---
 
