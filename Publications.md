@@ -6,13 +6,13 @@ excerpt: "Publications"
 
 ### Peer-Reviewed Articles
 
-+ [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://martinopertti.github.io/blog/stoic-partisans/) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020).
+- [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://martinopertti.github.io/blog/stoic-partisans/) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020).
 
-[PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772)
++ [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772)
 
 ### Notas metodológicas
 
-+ [Preserving and making public thirty years of public opinion: lessons learned from the uruguayan case](https://revistas.usal.es/index.php/1852-9003/issue/view/rlop2022111/rlop2022111). Revista Latinoamericana de Opinión Pública, Vol. 11 No. 1 (2022), Research Notes, pages 129-147
+- [Preserving and making public thirty years of public opinion: lessons learned from the uruguayan case](https://revistas.usal.es/index.php/1852-9003/issue/view/rlop2022111/rlop2022111). Revista Latinoamericana de Opinión Pública, Vol. 11 No. 1 (2022), Research Notes, pages 129-147
 
  **Abstract:** Latin America has a long history of public opinion studies, surveys are a frequently used tool to understand citizens’ opinions, attitudes and behaviors. However, these are often private information, being inaccessible to researchers and policymakers. In addition, pollesters face particular challenges in making data available. This article shows a possible path by describing the experience of the Laboratory of Public Opinion and Social Networks (LOPReS) of Uruguay. The LOPReS is an example of colaboration between academia, the private sector and public financing, which allowed the dissemination of more than 200 public opinion surveys carried out among 1993 and 2020. We reflect on three important lessons learned from the project: the relevance of building trusting bonds, the generation of incentives for collaboration, and the importance of financing. The case serves as an example to analyze strategies that allow the openness of information, with the collaboration of various actors working together and the research opportunities that emerge from the results.
 
