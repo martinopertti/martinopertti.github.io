@@ -17,11 +17,11 @@ Introduction to Programming on R short course at UCU's Winter School on Methods 
 
 Mass Political Behavior undergraduate class at the Social Science Department at UCU. The course is an introduction to the main literature and theoretical and methodological debates on mass political behavior. [Syllabus](programa.pdf)
 
-### Teaching Assitant/Tutor
+### Teaching Assistant / Tutoring
 
 + TA for Peter Enns' Survey Methdology short course at UCU's Winter School on Methods and Data Analysis. [Syllabus](programa_survey_methods.pdf)  
 
 
 + Laboratorio Metodológico
 
-Assistance classes for undergraduate students majoring on Social Sciences in Mathematics, Statistics, Programming and Research Design classes.
+Assistance classes and tutoring for undergraduate students majoring on Social Sciences in Mathematics, Statistics, Programming and Research Design classes.
