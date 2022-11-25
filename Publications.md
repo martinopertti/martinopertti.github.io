@@ -3,15 +3,15 @@ layout: page
 title: Publications
 ---
 
-##### Peer-Reviewed Articles
+#### Peer-Reviewed Articles
 
 - [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://martinopertti.github.io/blog/stoic-partisans/) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020). [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772) [Award](https://aucip.org.uy/premios-carlos-real-de-azua/)
 
-##### Notas metodológicas
+#### Notas metodológicas
 
 - [Preserving and making public thirty years of public opinion: lessons learned from the uruguayan case](https://martinopertti.github.io/blog/preserving/). Revista Latinoamericana de Opinión Pública, Vol. 11 No. 1 (2022), Research Notes, pages 129-147. [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772)
 
-##### Capítulos arbitrados en libros
+#### Capítulos arbitrados en libros
 
 + [La opinión pública uruguaya: explicando el voto](https://martinopertti.github.io/blog/op-uruguay/). Con Rosario Queirolo en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
 
@@ -19,10 +19,10 @@ title: Publications
 
 + [Big Business and Bureaucratic-Authoritarianism in Uruguay](https://martinopertti.github.io/blog/big-business/): a network based story of policy permeation for self-preservation. Con Juan A. Bogliaccini y Juan Geymonat en Berghoff, Basualdo and Bucheli (ed.) [Big Business and Authoritarian Regimes.](https://www.springer.com/de/book/9783030439248) Palgrave McMillan. [PDF](https://www.springer.com/de/book/9783030439248)
 
-##### Libros
+#### Libros
 
 + [Twittarquía: la polí́tica de las redes en Uruguay.](https://martinopertti.github.io/blog/twittarquia/) Editiones Túnel; Universidad Católica del Uruguay. Con Juan A. Bogliaccini, Cecilia Giambruno, Ignacio Borba y Rafael Piñeiro. [Book's website](https://twittarquia.weebly.com/)
 
-##### Otras publicaciones
+#### Otras publicaciones
 
 + [Opinión Pública en Uruguay.](https://umad-fcs.github.io/Piso-I-OP/) Parte de Observatorio Uruguay de la UMAD.
