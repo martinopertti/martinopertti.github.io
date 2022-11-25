@@ -2,9 +2,7 @@
 layout: page
 ---
 
-[CV](./CV-Martín Opertti.pdf)
+[CV](CV-Martin Opertti.pdf) (Last updated: Nov. 2022)
 
-<!-- ### Footer
-Last updated: Nov. 2022 -->
 
 
