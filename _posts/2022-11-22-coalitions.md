@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Party Coalitions in Presidential Systems: How Defection Hurts Presidential Approval Ratings
+title: Party Coalitions in Presidential Systems. How Defection Hurts Presidential Approval Ratings
 category: blog
 ---
 
