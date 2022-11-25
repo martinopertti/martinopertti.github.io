@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cursos
+title: Teaching
 ---
 
 ### Instructor 
