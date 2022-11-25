@@ -3,18 +3,25 @@ layout: page
 title: Cursos
 ---
 
-+ [Programación para el análisis de datos en ciencias sociales](https://martinopertti.github.io/PAD-web/). [Syllabus](programa-pad.pdf)
+### Instructor 
 
-Curso de grado para las licenciaturas en Ciencias Sociales de la Universidad Católica del Uruguay que busca familiarizar a los estudiantes con la programación para el análisis de datos, con un enfoque en las habilidades relevantes para el análisis de datos en ciencias sociales. El curso utiliza principalmente el entorno y lenguaje de programación de R. El curso abarca cómo estructurar, transformar, explorar, analizar y visualizar datos en R. También son introducidos conceptos básicos de Stata y Python.
++ [Programación para el análisis de datos en ciencias sociales](https://martinopertti.github.io/PAD-web/). 
+
+Programming for Social Science Data Analysis undergraduate class at the Social Science Department at Universidad Católica del Uruguay (UCU). The course is an introduction to how to structure, explore, analyze, model and visualize data using R. [Syllabus](programa-pad.pdf)
 
 + [Introducción a la Programación en R](https://martinopertti.github.io/IntroR-web/)
 
-Curso introductorio de R en la Escuela de Invierno en Métodos y Acceso a Datos de la Universidad Católica del Uruguay sobre fundamentos, manipulación y visualización de datos en R. [Syllabus](IntroaR - Martín Opertti.pdf)
+Introduction to Programming on R short course at UCU's Winter School on Methods and Data Analysis. [Syllabus](IntroaR - Martín Opertti.pdf)
 
 + Comportamiento político
 
-Curso de grado en la licenciatura en Ciencia Política de la Universidad Católica del Uruguay sobre los princiaples avances y debates teóricos y metodológicos en la literatura especializada sobre el comportamiento político de masas. [Syllabus](programa.pdf)
+Mass Political Behavior undergraduate class at the Social Science Department at UCU. The course is an introduction to the main literature and theoretical and methodological debates on mass political behavior. [Syllabus](programa.pdf)
+
+### Teaching Assitant/Tutor
+
++ TA for Peter Enns' Survey Methdology short course at UCU's Winter School on Methods and Data Analysis. [Syllabus](programa_survey_methods.pdf)  
+
 
 + Laboratorio Metodológico
 
-Curso de apoyo a estudiantes de grado de las licenciaturas de Ciencia Política, Sociología y Trabajo Social para las materias de Matemática, Estadística I, Estadística II, Análisis Cuantitativo (OLS) y apoyo en programación en paquetes estadísticos (R, Stata y SPSS).
+Tutoring undergraduate students majoring on Social Sciences in Mathematics, Statistics, Programming and Research Design classes.
