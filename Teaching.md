@@ -24,4 +24,4 @@ Mass Political Behavior undergraduate class at the Social Science Department at 
 
 + Laboratorio Metodológico
 
-Tutoring undergraduate students majoring on Social Sciences in Mathematics, Statistics, Programming and Research Design classes.
+Assistance classes for undergraduate students majoring on Social Sciences in Mathematics, Statistics, Programming and Research Design classes.
