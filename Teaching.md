@@ -3,7 +3,7 @@ layout: page
 title: Cursos
 ---
 
-+ [Programación para el análisis de datos en ciencias sociales](https://martinopertti.github.io/PAD-web/). (Syllabus)[programa-pad.pdf]
++ [Programación para el análisis de datos en ciencias sociales](https://martinopertti.github.io/PAD-web/). [Syllabus](programa-pad.pdf)
 
 Curso de grado para las licenciaturas en Ciencias Sociales de la Universidad Católica del Uruguay que busca familiarizar a los estudiantes con la programación para el análisis de datos, con un enfoque en las habilidades relevantes para el análisis de datos en ciencias sociales. El curso utiliza principalmente el entorno y lenguaje de programación de R. El curso abarca cómo estructurar, transformar, explorar, analizar y visualizar datos en R. También son introducidos conceptos básicos de Stata y Python.
 
