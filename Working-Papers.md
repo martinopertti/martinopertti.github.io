@@ -1,15 +1,7 @@
 ---
 layout: page
-title: Research
+title: Working Papers
 ---
-
-# Research Interests
-
-## Political Behavior
-
-## Social Media
-
-# Working Papers
 
 + The 'left-turn' and the support for pro-poor income growth in Latin America con Rosario Queirolo y Santiago López Cariboni
 

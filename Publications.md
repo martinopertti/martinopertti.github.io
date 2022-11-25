@@ -24,4 +24,6 @@ excerpt: "Publications"
 
 + [Twittarquía: la polí́tica de las redes en Uruguay.](https://martinopertti.github.io/blog/twittarquia/) Editiones Túnel; Universidad Católica del Uruguay. Con Juan A. Bogliaccini, Cecilia Giambruno, Ignacio Borba y Rafael Piñeiro. [Book's website](https://twittarquia.weebly.com/)
 
+### Otras publicaciones
 
++ [Opinión Pública en Uruguay.](https://umad-fcs.github.io/Piso-I-OP/) Parte de Observatorio Uruguay de la UMAD.
