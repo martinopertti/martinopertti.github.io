@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La opinión pública uruguaya: explicando el voto.
+title: La opinión pública uruguaya, explicando el voto.
 category: blog
 ---
 

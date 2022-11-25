@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twittarquía: la polí́tica de las redes en Uruguay
+title: Twittarquía: la politica de las redes en Uruguay
 category: blog
 ---
 
