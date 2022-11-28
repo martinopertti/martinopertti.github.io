@@ -9,7 +9,7 @@ title: Publications
 
 #### Research Notes
 
-- [Preserving and making public thirty years of public opinion: lessons learned from the uruguayan case](https://martinopertti.github.io/blog/preserving/). Revista Latinoamericana de Opinión Pública, Vol. 11 No. 1 (2022), Research Notes, pages 129-147. [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772)
+- [Preserving and making public thirty years of public opinion: lessons learned from the uruguayan case](https://martinopertti.github.io/blog/preserving/). Revista Latinoamericana de Opinión Pública, Vol. 11 No. 1 (2022), Research Notes, pages 129-147. [PDF](https://revistas.usal.es/index.php/1852-9003/issue/view/rlop2022111/rlop2022111)
 
 #### Refereed Book Chapters
 
