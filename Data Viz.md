@@ -4,9 +4,6 @@ title: Data viz
 excerpt: ""
 ---
 
-## Algunas visualizaciones recientes 
-
-
 ![](images/plot_1.png)
 
 ![](images/casos.png)
