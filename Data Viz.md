@@ -4,6 +4,12 @@ title: Data viz
 excerpt: ""
 ---
 
+![](images/ima_new_1.png)
+
+![](images/ima_new_2.png)
+
+![](images/ima_new_3.png)
+
 ![](images/plot_1.png)
 
 ![](images/casos.png)
