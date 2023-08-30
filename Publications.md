@@ -5,6 +5,9 @@ title: Publications
 
 #### Peer-Reviewed Articles
 
+- [Policy mood and thermostatic representation in developing democracies: taking the temperature in Uruguay
+](https://www.tandfonline.com/doi/full/10.1080/17457289.2023.2243586) Journal of Elections, Public Opinion and Parties (forthcoming)
+
 - [Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://martinopertti.github.io/blog/stoic-partisans/) Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020). [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772) [Award](https://aucip.org.uy/premios-carlos-real-de-azua/)
 
 #### Research Notes
