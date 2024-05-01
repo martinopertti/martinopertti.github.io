@@ -5,7 +5,7 @@ excerpt: "Home"
 
 <div style="text-align: justify">
 	
-Bienvenido/a! I am a Political Science PhD Student at Duke University, studying Political Behavior and Political Methodology. Previously, I worked as a Research Assistant and Instructor at the <a href="https://umad.cienciassociales.edu.uy/">Methods and Data Access Unit</a> (FCS-UdelaR, Uruguay) and as a data scientist at <a href="https://verasight.io/">Verasight</a>. I received my BA in Sociology from Universidad Católica del Uruguay. </div> 
+Bienvenido/a! I am a Political Science PhD Student at Duke University, studying Political Behavior and Political Methodology. Previously, I worked as a Research Assistant and Instructor at the <a href="https://umad.cienciassociales.edu.uy/">Methods and Data Access Unit</a> (FCS-UdelaR, Uruguay) and as a data scientist at <a href="https://verasight.io/">Verasight</a>. I received my BA in Sociology from Universidad Católica del Uruguay. </div> <br>
 
 <div style="text-align: justify">
 My main research interests are political behavior and psychology, and quantitative methods. I am primarily interested in the dynamics and consequences of political identities. Specifically, I study the impact of motivation in political information processing and how political identities affect non-political behavior. I am also interested in online political communication, particularly in the political homophily of social media interactions. Methodologically, I use survey experiments, public survey data, social network analysis, and text as data techniques among other quantitative tools. </div> <br>

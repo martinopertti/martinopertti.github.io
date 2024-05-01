@@ -2,7 +2,7 @@
 layout: page
 ---
 
-[CV](CV-Martin Opertti.pdf) (Last updated: Nov. 2022)
+[CV](CV-Martin Opertti.pdf) (Last updated: May. 2024)
 
 
 
