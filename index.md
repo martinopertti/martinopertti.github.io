@@ -20,7 +20,6 @@ My work appears in publications such as the Journal of Elections, Public Opinion
 Soy un estudiante de doctorado en ciencia política en la Universidad de Duke, Estados Unidos, donde estudio comportamiento político y metodología. Anteriormente, trabajé como Docente Asistente en la <a href="https://umad.cienciassociales.edu.uy/">Methods and Data Access Unit</a> (FCS-UdelaR) y como cientista de datos en <a href="https://verasight.io/">Verasight</a>. Soy licenciado en sociología por la Universidad Católica del Uruguay. </div> <br>
 
 <div style="text-align: justify">
-
 Mis principales intereses de investigación son el comportamiento y psicología política y los métodos de investigación cuantitativos. Estoy interesado en las dinámicas y consecuencias de las identidades políticas. Particularmente, estudio el impacto de la motivación en el procesamiento de información y como las identidades políticas afectan el comportamiento no político. También estoy interesado en la comunicación política en línea, particularmente en la segregación política en las interacciones en redes sociales. Metodológicamente, utilizo experimentos en encuesta, datos de opinión pública, análisis de redes y análisis de texto entre otras herramientas cuantitativas. </div> <br>
 
 <div style="text-align: justify">
