@@ -18,5 +18,5 @@ excerpt: "Software"
 
 - [link survey](https://duke.qualtrics.com/jfe/form/SV_dm1qN0yimiFmU5M)
 
-- [test image](images/2.png)
+![](images/2.png)
   
