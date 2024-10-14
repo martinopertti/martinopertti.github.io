@@ -17,4 +17,6 @@ excerpt: "Software"
 - [Mirador DESCA](https://bancodedatos-fcs.shinyapps.io/Mirador-DESCA-app/). *Programación del sistema de consulta interactivo del Mirador DESCA*
 
 - [link survey](https://duke.qualtrics.com/jfe/form/SV_dm1qN0yimiFmU5M)
+
+- [test image](images/2.png)
   
