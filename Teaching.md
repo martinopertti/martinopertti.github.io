@@ -21,7 +21,3 @@ Mass Political Behavior undergraduate class at the Social Science Department at 
 
 + TA for Peter Enns' Survey Methdology short course at UCU's Winter School on Methods and Data Analysis. [Syllabus](programa_survey_methods.pdf)  
 
-
-+ Laboratorio Metodológico
-
-Assistance classes and tutoring for undergraduate students majoring on Social Sciences in Mathematics, Statistics, Programming and Research Design classes.
