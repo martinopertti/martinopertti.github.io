@@ -10,14 +10,11 @@ owner:
   avatar: diariarec.jpg
   bio: "Welcome! ¡Bienvenido/a!"
   location: "Montevideo, Uruguay"
-  email: operttim@gmail.com
-  # Do not include the @ symbol in your Twitter username
-  twitter: martinopertti
+  email: martin.opertti@duke.edu
   github: martinopertti
   google:
     scholar: WmXuNEsAAAAJ
-# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
-# you may do so in _sass/variables.scss
+
 highlight-color: '#AEB6BF'
 lowlight-color: '#0E6655'
 
