@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Instructor 
+### Instructor 
 + [Programación para el análisis de datos en ciencias sociales](https://martinopertti.github.io/PAD-web/). 
   - Programming for Social Science Data Analysis undergraduate class at the Social Science Department at Universidad Católica del Uruguay (UCU). The course is an introduction to how to structure, explore, analyze, model and visualize data using R. [Syllabus](programa-pad.pdf)
 + [Introducción a la Programación en R](https://martinopertti.github.io/IntroR-web/)
