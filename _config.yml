@@ -6,9 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Martín Opertti
   avatar: diariarec.jpg
-  bio: "Welcome! ¡Bienvenido/a!"
   location: "Montevideo, Uruguay"
   email: martin.opertti@duke.edu
   github: martinopertti
