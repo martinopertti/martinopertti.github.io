@@ -4,6 +4,7 @@ title:
 ---
 
 #### Peer-Reviewed Articles
+- **[Linking personality and policy: The moderating roles of cues and frames](https://doi-org.proxy.lib.duke.edu/10.1111/pops.70055).** Political Psychology, 1-17, (2025). With Christopher Johnston
 - **[Policy mood and thermostatic representation in developing democracies: taking the temperature in Uruguay](https://www.tandfonline.com/doi/full/10.1080/17457289.2023.2243586).** Journal of Elections, Public Opinion and Parties, 1-21, (2023). With Eliana Alvarez, Juan Bogliaccini, Peter Enns and Rosario Queirolo
 - **[Stoic partisans: The political conditioning of economic perceptions in Uruguay](https://martinopertti.github.io/blog/stoic-partisans/).** Revista Latinoamericana de Opinión Pública, Vol. 9(1), 67-88 (2020). [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=7431772) [Award](https://aucip.org.uy/premios-carlos-real-de-azua/)
 
@@ -20,4 +21,5 @@ title:
 
 #### Other Publications
 + **[Opinión Pública en Uruguay.](https://umad-fcs.github.io/Piso-I-OP/).** Parte de Observatorio Uruguay de la UMAD.
+
 
