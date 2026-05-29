@@ -13,8 +13,8 @@ title:
 - **[Preserving and making public thirty years of public opinion: lessons learned from the uruguayan case](https://martinopertti.github.io/blog/preserving/).** Revista Latinoamericana de Opinión Pública, Vol. 11 No. 1 (2022), Research Notes, pages 129-147. [PDF](https://revistas.usal.es/index.php/1852-9003/issue/view/rlop2022111/rlop2022111)
 
 #### Book Chapters
-+ **[La opinión pública uruguaya: explicando el voto](https://martinopertti.github.io/blog/op-uruguay/).** Con Rosario Queirolo en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
-+ **[Twitter y el proceso electoral 2019 en Uruguay](https://martinopertti.github.io/blog/twitter-icp/).** Con Ignacio Borba, Juan A. Bogliaccini, Cecilia Giambruno y Rafael Piñeiro en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
++ **La opinión pública uruguaya: explicando el voto.** Con Rosario Queirolo en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
++ **Twitter y el proceso electoral 2019 en Uruguay.** Con Ignacio Borba, Juan A. Bogliaccini, Cecilia Giambruno y Rafael Piñeiro en Moraes y Pérez (ed) en De la Estabilidad al Equilibrio Inestable: elecciones y comportamiento electoral Uruguay 2019 (2021), Facultad de Ciencias Sociales, Departamento de Ciencia Política.
 + **[Big Business and Bureaucratic-Authoritarianism in Uruguay](https://martinopertti.github.io/blog/big-business/): a network based story of policy permeation for self-preservation.** Con Juan A. Bogliaccini y Juan Geymonat en Berghoff, Basualdo and Bucheli (ed.) [Big Business and Authoritarian Regimes.](https://www.springer.com/de/book/9783030439248) Palgrave McMillan. [PDF](https://www.springer.com/de/book/9783030439248)
 
 #### Books
